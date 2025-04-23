@@ -1,0 +1,16 @@
+{
+  "name": "moon-quest",
+  "version": "1.0.0",
+  "description": "mOOn Quest game converted from Java to JavaScript",
+  "main": "js/index.js",
+  "scripts": {
+    "start": "node js/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+} 
